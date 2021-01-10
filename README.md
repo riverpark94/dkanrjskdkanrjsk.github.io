@@ -58,6 +58,3 @@
   <a href="https://riverpark94.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/"/></a>&nbsp   <a href="https://github.com/riverpark94"><img src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github"></a>&nbsp
 </p>	
 
-<p align="center"> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverpark94&count_bg=%23BE4123&title_bg=%23584C4C&icon=&icon_color=%23DD4747&title=welcome%21&edge_flat=false">
-</p>
